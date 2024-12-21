@@ -1,0 +1,36 @@
+ERROR - 2024-12-17 22:54:25 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2024-12-17 22:54:25 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 D:\xamppnew\htdocs\projects\veat\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xamppnew\htdocs\projects\veat\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 D:\xamppnew\htdocs\projects\veat\app\Models\CrudModel.php(121): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xamppnew\htdocs\projects\veat\app\Libraries\MenuTree.php(42): App\Models\CrudModel->getAnyItems(Array)
+#4 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(49): App\Libraries\MenuTree->get_categories()
+#5 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#6 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#7 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#10 {main}
+ERROR - 2024-12-17 22:54:26 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2024-12-17 22:54:26 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 D:\xamppnew\htdocs\projects\veat\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xamppnew\htdocs\projects\veat\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 D:\xamppnew\htdocs\projects\veat\app\Models\CrudModel.php(121): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xamppnew\htdocs\projects\veat\app\Libraries\MenuTree.php(42): App\Models\CrudModel->getAnyItems(Array)
+#4 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(49): App\Libraries\MenuTree->get_categories()
+#5 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#6 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#7 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#10 {main}
+CRITICAL - 2024-12-17 22:55:00 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}

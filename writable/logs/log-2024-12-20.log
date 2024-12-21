@@ -1,0 +1,59 @@
+CRITICAL - 2024-12-20 00:51:37 --> Cannot access offset of type string on string
+#0 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\AjaxController->do_place_order()
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxController))
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-12-20 00:58:07 --> Cannot use object of type CodeIgniter\HTTP\IncomingRequest as array
+#0 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\AjaxController->do_place_order()
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxController))
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-12-20 01:06:19 --> Uncaught TypeError: abs(): Argument #1 ($num) must be of type int|float, string given in D:\xamppnew\htdocs\projects\veat\system\Debug\Exceptions.php:298
+Stack trace:
+#0 D:\xamppnew\htdocs\projects\veat\system\Debug\Exceptions.php(298): abs('BAD_REQUEST_ERR...')
+#1 D:\xamppnew\htdocs\projects\veat\system\Debug\Exceptions.php(102): CodeIgniter\Debug\Exceptions->determineCodes(Object(Razorpay\Api\Errors\BadRequestError))
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Razorpay\Api\Errors\BadRequestError))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2024-12-20 01:21:06 --> Cannot access offset of type string on string
+#0 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\AjaxController->do_place_order()
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxController))
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-12-20 01:21:50 --> Cannot access offset of type string on string
+#0 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\AjaxController->do_place_order()
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxController))
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-12-20 01:22:04 --> Cannot access offset of type string on string
+#0 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\AjaxController->do_place_order()
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxController))
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-12-20 01:26:05 --> Cannot access offset of type string on string
+#0 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\AjaxController->do_place_order()
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxController))
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-12-20 01:29:41 --> Undefined variable $is_itementered
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\AjaxController.php(534): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xamppnew\\htd...', 534)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\AjaxController->do_place_order()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxController))
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-20 01:31:59 --> Undefined variable $is_itementered
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\AjaxController.php(534): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xamppnew\\htd...', 534)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\AjaxController->do_place_order()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxController))
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

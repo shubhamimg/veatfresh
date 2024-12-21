@@ -1,0 +1,86 @@
+CRITICAL - 2024-12-19 00:21:44 --> Undefined variable $user
+#0 D:\xamppnew\htdocs\projects\veat\app\Views\checkout.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xamppnew\\htd...', 39)
+#1 D:\xamppnew\htdocs\projects\veat\system\View\View.php(210): include('D:\\xamppnew\\htd...')
+#2 D:\xamppnew\htdocs\projects\veat\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xamppnew\htdocs\projects\veat\system\Common.php(1089): CodeIgniter\View\View->render('checkout', Array, true)
+#4 D:\xamppnew\htdocs\projects\veat\app\Controllers\Checkout.php(91): view('checkout', Array)
+#5 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\Checkout->index()
+#6 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Checkout))
+#7 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-12-19 00:21:50 --> Undefined variable $user
+#0 D:\xamppnew\htdocs\projects\veat\app\Views\checkout.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xamppnew\\htd...', 39)
+#1 D:\xamppnew\htdocs\projects\veat\system\View\View.php(210): include('D:\\xamppnew\\htd...')
+#2 D:\xamppnew\htdocs\projects\veat\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xamppnew\htdocs\projects\veat\system\Common.php(1089): CodeIgniter\View\View->render('checkout', Array, true)
+#4 D:\xamppnew\htdocs\projects\veat\app\Controllers\Checkout.php(91): view('checkout', Array)
+#5 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\Checkout->index()
+#6 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Checkout))
+#7 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-12-19 00:44:30 --> Trying to access array offset on value of type null
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\AjaxController.php(402): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'D:\\xamppnew\\htd...', 402)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\AjaxController->do_place_order()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxController))
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-19 00:45:27 --> Trying to access array offset on value of type null
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\AjaxController.php(402): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'D:\\xamppnew\\htd...', 402)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\AjaxController->do_place_order()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxController))
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-19 00:53:05 --> Trying to access array offset on value of type null
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\AjaxController.php(410): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'D:\\xamppnew\\htd...', 410)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\AjaxController->do_place_order()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxController))
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-19 00:54:19 --> Trying to access array offset on value of type null
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\AjaxController.php(411): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'D:\\xamppnew\\htd...', 411)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\AjaxController->do_place_order()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxController))
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-19 00:54:44 --> Trying to access array offset on value of type null
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\AjaxController.php(411): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'D:\\xamppnew\\htd...', 411)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\AjaxController->do_place_order()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxController))
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-19 00:55:58 --> Trying to access array offset on value of type null
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\AjaxController.php(411): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'D:\\xamppnew\\htd...', 411)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\AjaxController->do_place_order()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AjaxController))
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-19 23:19:31 --> Undefined variable $razorpay_payment_id
+#0 D:\xamppnew\htdocs\projects\veat\app\Views\checkout.php(662): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xamppnew\\htd...', 662)
+#1 D:\xamppnew\htdocs\projects\veat\system\View\View.php(210): include('D:\\xamppnew\\htd...')
+#2 D:\xamppnew\htdocs\projects\veat\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xamppnew\htdocs\projects\veat\system\Common.php(1089): CodeIgniter\View\View->render('checkout', Array, true)
+#4 D:\xamppnew\htdocs\projects\veat\app\Controllers\Checkout.php(91): view('checkout', Array)
+#5 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\Checkout->index()
+#6 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Checkout))
+#7 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-12-19 23:19:36 --> Undefined variable $razorpay_payment_id
+#0 D:\xamppnew\htdocs\projects\veat\app\Views\checkout.php(662): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xamppnew\\htd...', 662)
+#1 D:\xamppnew\htdocs\projects\veat\system\View\View.php(210): include('D:\\xamppnew\\htd...')
+#2 D:\xamppnew\htdocs\projects\veat\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\xamppnew\htdocs\projects\veat\system\Common.php(1089): CodeIgniter\View\View->render('checkout', Array, true)
+#4 D:\xamppnew\htdocs\projects\veat\app\Controllers\Checkout.php(91): view('checkout', Array)
+#5 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\Checkout->index()
+#6 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Checkout))
+#7 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xamppnew\htdocs\projects\veat\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

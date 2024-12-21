@@ -1,0 +1,462 @@
+ERROR - 2024-12-15 00:29:23 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2024-12-15 00:29:23 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 D:\xamppnew\htdocs\projects\veat\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xamppnew\htdocs\projects\veat\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 D:\xamppnew\htdocs\projects\veat\app\Models\CrudModel.php(121): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xamppnew\htdocs\projects\veat\app\Libraries\MenuTree.php(42): App\Models\CrudModel->getAnyItems(Array)
+#4 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(49): App\Libraries\MenuTree->get_categories()
+#5 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#6 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#7 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#10 {main}
+CRITICAL - 2024-12-15 00:49:38 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 00:49:40 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 00:49:41 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 00:49:42 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 00:49:45 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+ERROR - 2024-12-15 00:50:36 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2024-12-15 00:50:36 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 D:\xamppnew\htdocs\projects\veat\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xamppnew\htdocs\projects\veat\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 D:\xamppnew\htdocs\projects\veat\app\Models\CrudModel.php(121): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xamppnew\htdocs\projects\veat\app\Libraries\MenuTree.php(42): App\Models\CrudModel->getAnyItems(Array)
+#4 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(49): App\Libraries\MenuTree->get_categories()
+#5 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#6 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#7 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#10 {main}
+CRITICAL - 2024-12-15 14:30:51 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 14:30:59 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 14:47:03 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 14:49:48 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 14:50:42 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 14:54:57 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 14:54:59 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 14:55:15 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 14:55:19 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 14:55:37 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 14:56:05 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 15:07:05 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 15:46:02 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 15:47:56 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 15:48:03 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 15:48:07 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 15:48:08 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:02:15 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:08:42 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:09:39 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 35)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:09:50 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 35)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:09:52 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 35)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:09:53 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 35)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:10:22 --> Creation of dynamic property App\Controllers\Cart::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Cart.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 27)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Cart->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:11:13 --> Creation of dynamic property App\Controllers\Cart::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Cart.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 27)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Cart->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:12:34 --> Creation of dynamic property App\Controllers\Cart::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Cart.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 27)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Cart->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:15:36 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:21:54 --> Creation of dynamic property App\Controllers\Home::$CrudModel is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 36)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:22:11 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 36)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:22:30 --> Creation of dynamic property App\Controllers\Home::$CrudModel is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 36)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:24:08 --> Too few arguments to function App\Controllers\Home::__construct(), 0 passed in D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php on line 802 and exactly 2 expected
+#0 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#5 {main}
+CRITICAL - 2024-12-15 16:24:08 --> Too few arguments to function App\Controllers\Home::__construct(), 0 passed in D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php on line 802 and exactly 2 expected
+#0 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#5 {main}
+CRITICAL - 2024-12-15 16:24:39 --> Creation of dynamic property App\Controllers\Home::$data is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 45)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:25:35 --> Creation of dynamic property App\Controllers\Home::$validation is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 48)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:26:07 --> Creation of dynamic property App\Controllers\Home::$validation is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 48)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:26:41 --> Creation of dynamic property App\Libraries\MenuTree::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Libraries\MenuTree.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 19)
+#1 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(55): App\Libraries\MenuTree->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#4 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#7 {main}
+CRITICAL - 2024-12-15 16:30:06 --> Creation of dynamic property App\Libraries\MenuTree::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Libraries\MenuTree.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 19)
+#1 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(53): App\Libraries\MenuTree->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#4 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#7 {main}
+CRITICAL - 2024-12-15 16:30:09 --> Creation of dynamic property App\Libraries\MenuTree::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Libraries\MenuTree.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 19)
+#1 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(53): App\Libraries\MenuTree->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#4 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#7 {main}
+CRITICAL - 2024-12-15 16:30:10 --> Creation of dynamic property App\Libraries\MenuTree::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Libraries\MenuTree.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 19)
+#1 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(53): App\Libraries\MenuTree->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#4 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#7 {main}
+CRITICAL - 2024-12-15 16:30:11 --> Creation of dynamic property App\Libraries\MenuTree::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Libraries\MenuTree.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 19)
+#1 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(53): App\Libraries\MenuTree->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#4 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#7 {main}
+CRITICAL - 2024-12-15 16:30:11 --> Creation of dynamic property App\Libraries\MenuTree::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Libraries\MenuTree.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 19)
+#1 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(53): App\Libraries\MenuTree->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#4 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#7 {main}
+CRITICAL - 2024-12-15 16:30:40 --> Creation of dynamic property App\Controllers\Home::$data is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(95): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 95)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:32:15 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:35:29 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:37:22 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:37:23 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+CRITICAL - 2024-12-15 16:37:24 --> Creation of dynamic property App\Controllers\Home::$db is deprecated
+#0 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\xamppnew\\htd...', 34)
+#1 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#2 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#6 {main}
+ERROR - 2024-12-15 21:18:25 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2024-12-15 21:18:25 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 D:\xamppnew\htdocs\projects\veat\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xamppnew\htdocs\projects\veat\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 D:\xamppnew\htdocs\projects\veat\app\Models\CrudModel.php(121): CodeIgniter\Database\BaseBuilder->get()
+#3 D:\xamppnew\htdocs\projects\veat\app\Libraries\MenuTree.php(42): App\Models\CrudModel->getAnyItems(Array)
+#4 D:\xamppnew\htdocs\projects\veat\app\Controllers\Home.php(49): App\Libraries\MenuTree->get_categories()
+#5 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(802): App\Controllers\Home->__construct()
+#6 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#7 D:\xamppnew\htdocs\projects\veat\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xamppnew\htdocs\projects\veat\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\xamppnew\htdocs\projects\veat\system\Commands\Server\rewrite.php(43): require_once('D:\\xamppnew\\htd...')
+#10 {main}
