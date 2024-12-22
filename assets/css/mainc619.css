@@ -1614,9 +1614,9 @@ label {
 .form-control {
   border: 1px solid #f0e9ff;
   border-radius: 10px;
-    height: 38px;
+    /* height: 38px; */
     padding-left: 17px;
-    font-size: 23px;
+    font-size: 18px;
     background: transparent;
 }
 
@@ -3215,6 +3215,7 @@ table .product-thumbnail img {
 
 .zoomContainer, .zoomWindow {
   z-index: 9999;
+  display: none;
 }
 
 .single-product .zoomContainer, .single-product .zoomWindow {
@@ -4088,12 +4089,13 @@ table .product-thumbnail img {
 .product-cart-wrap .product-card-bottom .add-cart .add {
   position: relative;
   display: inline-block;
-  padding: 6px 20px 6px 20px;
+  padding: 6px 10px 6px 10px;
   border-radius: 4px;
   background-color: #0ba10b;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 600;
   color: #fff;
+  white-space: nowrap;
 }
 
 .product-cart-wrap .product-card-bottom .add-cart .add:hover {
@@ -6227,8 +6229,8 @@ h6.post-title {
 }
 
 .logo.logo-width-1 a img {
-  width: 180px;
-  min-width: 180px;
+  width: 140px;
+  min-width: 140px;
 }
 
 .search-style-1 form {

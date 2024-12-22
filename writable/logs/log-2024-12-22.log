@@ -390,3 +390,591 @@ CRITICAL - 2024-12-22 00:30:15 --> Undefined array key 0
 #3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
 #4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
 #5 {main}
+CRITICAL - 2024-12-22 00:30:48 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-1.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:48 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-2.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-5.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-3.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-4.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-9.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-8.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-3.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-6.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-6.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-4.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-7.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-7.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-5.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-3.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-2.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-1.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-7.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-4.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-5.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-6.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-9.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-8.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:49 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-7.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:50 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-6.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:50 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-3.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:50 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-4.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:30:50 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-5.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:55 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-2.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:56 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-1.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:56 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-3.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:56 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-5.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:56 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-4.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:56 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-5.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:56 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-6.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:56 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-4.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:56 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-7.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:56 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-9.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:56 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-3.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:56 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-6.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:56 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-8.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:56 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-7.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:57 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-2.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:57 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-3.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:57 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-5.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:57 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-1.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:57 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-7.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:57 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-4.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:57 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-6.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:57 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-9.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:57 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-8.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:57 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-7.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:57 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-6.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:57 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-3.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:57 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-4.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:38:57 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-5.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:16 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-2.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:16 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-1.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:16 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-3.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:16 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-5.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:16 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-4.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-7.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-4.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-9.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-3.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-5.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-6.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-7.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-6.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-8.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-2.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-7.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-1.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-3.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-4.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-5.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'product-16-6.jp...')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-9.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-8.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-7.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-6.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-3.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:17 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-4.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-12-22 00:59:18 --> Undefined array key 0
+#0 D:\xampp\htdocs\veatfresh\app\Controllers\Product.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 119)
+#1 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(825): App\Controllers\Product->product_detail('assets', 'imgs', 'shop', 'thumbnail-5.jpg')
+#2 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Product))
+#3 D:\xampp\htdocs\veatfresh\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\veatfresh\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
