@@ -127,7 +127,8 @@ $order_list = $encoded_items;
             <div class="col-md-12">
                 <h2 class="page-header">
                     <span class="text-left">Mo. +91 <?=$settings['support_number'];?></span>
-                    <span class="text-right" style="float: right;"><b>FSSAI: </b><?php echo '12721066001560'; ?></span>
+                    <!-- 12721066001560 old number -->
+                    <span class="text-right" style="float: right;"><b>FSSAI: </b><?php echo '12724045000814'; ?></span>
                 </h2>                
             </div>
             
