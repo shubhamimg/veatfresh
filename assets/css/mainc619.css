@@ -1035,7 +1035,7 @@ button.submit:hover, button[type='submit']:hover {
   border-radius: 4px;
   color: #fff;
   border: 1px solid transparent;
-  background-color: #ff6d00;
+  background-color: #0ba10b;
   cursor: pointer;
   -webkit-transition: all 300ms linear 0s;
   transition: all 300ms linear 0s;
@@ -1044,7 +1044,7 @@ button.submit:hover, button[type='submit']:hover {
 }
 
 .btn:hover, .button:hover {
-  background-color: #FDC040;
+  background-color: #ff6d00;
 }
 
 .btn.btn-sm, .button.btn-sm {
@@ -1160,7 +1160,7 @@ textarea:-ms-input-placeholder {
 input {
   border: 1px solid #ececec;
   border-radius: 10px;
-  height: 64px;
+  height: 50px;
   -webkit-box-shadow: none;
           box-shadow: none;
   padding-left: 20px;
@@ -1613,11 +1613,15 @@ label {
 
 .form-control {
   border: 1px solid #f0e9ff;
-  border-radius: 10px;
+  border-radius: 8px;
     /* height: 38px; */
     padding-left: 17px;
     font-size: 18px;
     background: transparent;
+}
+
+.weightDropDown{
+  padding-block: 12px !important;
 }
 
 .comment-form {
@@ -4930,8 +4934,14 @@ table .product-thumbnail img {
   vertical-align: top;
 }
 
+.detail-extralink-input-wrapper{
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
 .detail-extralink .detail-qty {
-  margin: 0 6px 15px 0;
+  /* margin: 0 6px 15px 0; */
   background: #fff;
   border: 2px solid #fff !important;
   font-size: 16px;

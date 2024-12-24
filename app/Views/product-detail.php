@@ -188,7 +188,7 @@
                                         </table>
 
                                         
-                                        <select class="form-control" name="weight" id="weight">
+                                        <select class="form-control weightDropDown" name="weight" id="weight">
 
                                             <option>More Varients</option>
 
@@ -216,7 +216,7 @@
 
                                   
                                     <?php if($product_data[0]->serve_for == 'Available'){?>
-                                    <div class="detail-extralink mb-50">
+                                    <div class="detail-extralink mb-50 detail-extralink-input-wrapper">
 
                                         <div class="detail-qty border radius">
 
